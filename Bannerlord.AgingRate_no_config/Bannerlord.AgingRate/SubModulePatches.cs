@@ -1,11 +1,6 @@
-﻿using System;
-using TaleWorlds.CampaignSystem.GameComponents;
+﻿using TaleWorlds.CampaignSystem.GameComponents;
 using HarmonyLib;
 using JetBrains.Annotations;
-using TaleWorlds.MountAndBlade;
-// using MCM.Abstractions.Base.Global;
-using TaleWorlds.Library;
-using TaleWorlds.CampaignSystem.CharacterDevelopment;
 
 namespace Bannerlord.AgingRate
 {

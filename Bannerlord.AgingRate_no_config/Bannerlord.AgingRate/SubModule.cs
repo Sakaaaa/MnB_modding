@@ -1,15 +1,7 @@
-﻿using System.Collections.Generic;
-using TaleWorlds.CampaignSystem;
-using TaleWorlds.CampaignSystem.Actions;
-using TaleWorlds.CampaignSystem.ComponentInterfaces;
+﻿using TaleWorlds.CampaignSystem;
 using TaleWorlds.Core;
 using TaleWorlds.Library;
-using TaleWorlds.Localization;
 using TaleWorlds.MountAndBlade;
-using TaleWorlds.CampaignSystem.GameComponents;
-using System.Linq;
-using System;
-using TaleWorlds.CampaignSystem.CharacterDevelopment;
 using HarmonyLib;
 
 
