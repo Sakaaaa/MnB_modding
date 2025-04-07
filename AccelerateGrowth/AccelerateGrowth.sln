@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bannerlord.AgingRate", "Bannerlord.AgingRate\Bannerlord.AgingRate.csproj", "{C302D897-2032-4F2A-9950-600385C3DB3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccelerateGrowth", "AccelerateGrowth\AccelerateGrowth.csproj", "{C938713E-FA0B-47DD-86B1-0F7599226EF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C302D897-2032-4F2A-9950-600385C3DB3E}.Debug|x64.ActiveCfg = Debug|x64
-		{C302D897-2032-4F2A-9950-600385C3DB3E}.Debug|x64.Build.0 = Debug|x64
-		{C302D897-2032-4F2A-9950-600385C3DB3E}.Release|x64.ActiveCfg = Release|x64
-		{C302D897-2032-4F2A-9950-600385C3DB3E}.Release|x64.Build.0 = Release|x64
+		{C938713E-FA0B-47DD-86B1-0F7599226EF1}.Debug|x64.ActiveCfg = Debug|x64
+		{C938713E-FA0B-47DD-86B1-0F7599226EF1}.Debug|x64.Build.0 = Debug|x64
+		{C938713E-FA0B-47DD-86B1-0F7599226EF1}.Release|x64.ActiveCfg = Release|x64
+		{C938713E-FA0B-47DD-86B1-0F7599226EF1}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7070A3CF-E41B-4A62-A751-0FEB121656C3}
+		SolutionGuid = {1145EBB5-93D1-4F0B-8F2F-1375C9069D18}
 	EndGlobalSection
 EndGlobal
